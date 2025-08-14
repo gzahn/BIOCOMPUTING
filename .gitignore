@@ -1,0 +1,5 @@
+# keep quizzes out of GitHub
+quizzes
+
+# ignore R history files from assignment_8
+assignments/assignment_8/.Rhistory
