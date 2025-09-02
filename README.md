@@ -5,3 +5,7 @@ This simulates an example student repository for the **Biocomputing** &amp; **Ge
 For students, their personal repository will be the place where they turn in assignments, keep their notes on lesson material, and contribute to group projects.
 
 All work must be pushed to GitHub to receive a grade.
+
+I'm adding new content.
+
+
