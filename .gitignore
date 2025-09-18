@@ -3,3 +3,9 @@ quizzes
 
 # ignore R history files from assignment_8
 assignments/assignment_8/.Rhistory
+
+# student repositories
+student_repos
+
+# class videos
+recordings
